@@ -1,6 +1,3 @@
 # Jocode
 
-##Simple Project on:
---HTML
---CSS
---JavaScript
+#Simple Project on:  HTML CSS JavaScript
