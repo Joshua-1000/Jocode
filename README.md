@@ -1,2 +1,6 @@
 # Jocode
-print('Do nothing')
+
+##Simple Project on:
+--HTML
+--CSS
+--JavaScript
